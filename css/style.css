@@ -175,7 +175,7 @@ body {
  .contactdesc{
    text-align: center;
   margin-top:150px;
-   margin-left:20px;
+   
  }
 
  .logolist li{
@@ -200,6 +200,9 @@ body {
  span{
    font-size: 22px;
    color: white;
+ }
+ a{
+     color: green;
  }
  
 
