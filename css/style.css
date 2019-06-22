@@ -180,6 +180,7 @@ body {
 
  .logolist li{
    display: inline;
+   text-align: center;
  }
 
  /*blogpage*/
@@ -201,9 +202,7 @@ body {
    font-size: 22px;
    color: white;
  }
- a{
-     color: green;
- }
+ 
  
 
  
